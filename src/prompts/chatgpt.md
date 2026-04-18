@@ -1,10 +1,10 @@
-## 🧠 Prompts
+## 🧠 Prompts Iniciais
 
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+|   Ação   | Prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  Título  | Estou com um projeto de iniciar um canal de podcasts, para falar sobre IA, sua importância e possíveis utilizações. Para iniciarmos, gostaria de 5 sugestões de nomes. Para essa sugestão de nomes, considerar as seguintes considerações: o nome deve ser curto e inovador, em português, e não pode ser de um podcast já existente.                                                       |
+| Conteúdo | Gostaria que elaborasse o relatório para o 1º episódio. Para ele, gostaria que fosse informado o que é IA, os tipos e quais são as possíveis aplicações. Lembrando que esse texto quando lido, não deve passar de 5min. |
 
