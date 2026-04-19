@@ -1,13 +1,10 @@
 # 🤖 Projeto - Podcast: Mente de Máquina
 
 <p align="center">
-  <img src="./capa.png" alt="Mente de Máquina Podcast" width="400"/>
+  <img src="./src/capa.png" alt="Mente de Máquina Podcast" width="400"/>
 </p>
 
-<p align="center">
-    Sobre o Podcast
-</p>
-
+## ℹ️ Sobre o Podcast
 <p>
 Projeto de criação de um podcast, cujo o objetivo é de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 </p>
