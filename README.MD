@@ -13,6 +13,13 @@ Projeto de criação de um podcast, cujo o objetivo é de gerar um podcast utili
     <audio src="output/Mente_de_Máquina_Ep01.mp3" controls title="Podcast editado"></audio>
 </div>
 
+<p align="center">
+  <a href="https://open.spotify.com/episode/0dbnIl3eTXmpk0bfxwjdhe?si=7_Hfbtn_QeKyBrNOx8Bq9Q">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" width="20"/>
+    Ouça no Spotify
+  </a>
+</p>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
